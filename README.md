@@ -1,9 +1,7 @@
 # Tic-Tac-Toe
 A Tic-Tac-Toe game made using HTML, CSS, JavaScript
-<br/>
-Hosted Here: 
-<br/>
-https://immaplaytictactoe.netlify.app/
+<br/><br/>
+Hosted Here: https://immaplaytictactoe.netlify.app/
 <br/>
 
 Some Screenshots :
