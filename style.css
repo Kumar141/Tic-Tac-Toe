@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
+ 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    /* background-color: aqua; */
+    background-color: #83B692;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.heading {
+    font-family: 'Merienda One', cursive;
+}
+
+.score {
+    font-weight: bolder;
+    font-size: 2rem;
+    color: darkgreen;
+}
+
+.scores {
+    font-weight: bolder;
+    font-size: 1.5rem;
+    font-family: 'Merienda One', cursive;
+    margin-top: 3rem;
+}
+
+#winner {
+    margin: 1rem 0;
+    color: white;
+    font-size: 2rem;
+    font-family: 'Merienda One', cursive;
+}
+
+#btn {
+    width: 5rem;
+    height: 2rem;
+    border-radius: 20%;
+    background-color:violet;
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 2px;
+    padding: 7px;
+    font-weight: bolder;
+}
+
+#btn:hover {
+    width: 5.3rem;
+    height: 2.3rem;
+}
+
+.box {
+    background-color: #83B692;
+    height: 16.5vh;
+    width: 16.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#board {
+    width: 50vw;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5rem;
+    font-family: 'Merienda One', cursive;
+}
+
+#container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
