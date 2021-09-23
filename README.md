@@ -1,6 +1,5 @@
 # Tic-Tac-Toe
 A Tic-Tac-Toe game made using HTML, CSS, JavaScript. 
-For each win one point will be added to respective winner player.
 <br/><br/>
 Hosted Here: https://immaplaytictactoe.netlify.app/
 <br/>
